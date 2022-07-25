@@ -1,18 +1,18 @@
 const vehicle = [
   {
-      vehicleNumber: "KL 01 BT 2525",
+      vehicleNumber: "KL43B2344",
       ownerName: "owner1",
       vehicleStatus: "active",
       registrationDate: "020202",
   },
   {
-      vehicleNumber: "MZ 01 T 5186",
+      vehicleNumber: "KL16J3636",
       ownerName: "owner2",
       vehicleStatus: "inactive",
       registrationDate: "030301",
   },
   {
-      vehicleNumber: "HR 26 BR 9044",
+      vehicleNumber: "KL55R2473",
       ownerName: "owner3",
       vehicleStatus: "active",
       registrationDate: "040405",
